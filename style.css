@@ -1,0 +1,34 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width:25%;
+  height: 50%;
+}
+
+p, li {
+  color: white:
+    font-famly: Arial, Helvetica, sans-serif;
+  
+}
+
+
+.header {
+  background-color: black;
+  border: 1px solid black;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  padding-left: 10px
+}
